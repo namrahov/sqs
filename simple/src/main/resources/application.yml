@@ -1,0 +1,11 @@
+aws:
+  access-key:
+  secret-key:
+  sqs:
+    queue-url:
+    queue-name: awstrainig-queue
+
+
+
+
+
